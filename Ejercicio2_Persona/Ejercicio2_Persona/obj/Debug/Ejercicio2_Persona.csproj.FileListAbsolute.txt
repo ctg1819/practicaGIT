@@ -1,0 +1,6 @@
+c:\users\usuario\source\repos\Ejercicio2_Persona\Ejercicio2_Persona\bin\Debug\Ejercicio2_Persona.exe.config
+c:\users\usuario\source\repos\Ejercicio2_Persona\Ejercicio2_Persona\bin\Debug\Ejercicio2_Persona.exe
+c:\users\usuario\source\repos\Ejercicio2_Persona\Ejercicio2_Persona\bin\Debug\Ejercicio2_Persona.pdb
+c:\users\usuario\source\repos\Ejercicio2_Persona\Ejercicio2_Persona\obj\Debug\Ejercicio2_Persona.csproj.CoreCompileInputs.cache
+c:\users\usuario\source\repos\Ejercicio2_Persona\Ejercicio2_Persona\obj\Debug\Ejercicio2_Persona.exe
+c:\users\usuario\source\repos\Ejercicio2_Persona\Ejercicio2_Persona\obj\Debug\Ejercicio2_Persona.pdb
